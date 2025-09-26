@@ -1,7 +1,9 @@
 ### Olá, meu nome é Lucas!
 ---
-Desenvolvedor web com foco no front-end.<br>
-Aqui pretendo compartilhar todas as minhas experiências com as técnologias que já domino além de buscar conhecimento e continuar aprendendo coisas novas!
+Desenvolvedor Back-End especializado em C# e .NET. Experiência no desenvolvimento de APIs RESTful e integração com SQL Server utilizando Entity Framework Core.
+Sempre buscando a melhor forma de encontrar soluções aplicando boas práticas de programação (SOLID, Clean Code) e versionamento com Git/GitHub.
+Domino os principais recursos do .NET incluindo ASP.NET Core, LINQ, camadas de serviço e repositório, além de possuir experiência em autenticação e autorização de APIs.
+Priorizo a entrega de código limpo, seguro e de fácil manutenção, agregando valor aos projetos que atuo.
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucas1101&show_icons=true&theme=highcontrast)
 
