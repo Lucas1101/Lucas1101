@@ -11,9 +11,9 @@ Priorizo a entrega de código limpo, seguro e de fácil manutenção, agregando 
 
 <div style="display:inline_block><br>
   <img align="center" alt="Lucas-csharp" height= "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Lucas-csharp" height= "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img align="center" alt="Lucas-csharp" height= "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-          
+  <img align="center" alt="Lucas-dotnet" height= "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg"/>
+  <img align="center" alt="Lucas-sql" height= "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+  <img align="center" alt="Lucas-ef" height= "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg" />     
 </div>
 ---
 ### Contatos:
